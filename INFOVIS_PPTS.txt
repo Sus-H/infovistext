@@ -1,0 +1,7 @@
+Visualization Analysis & Design What's Vis, and Why Do It? (Ch 1)Tamara MunznerDepartment of Computer ScienceUniversity of British Columbia
+@tamaramunznerVisualization Analysis & Design What's Vis, and Why Do It? (Ch 1)Tamara MunznerDepartment of Computer ScienceUniversity of British Columbia
+@tamaramunznerDeﬁning visualization (vis)
+2Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively .Deﬁning visualization (vis)
+3Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively .Why?...Why have a human in the loop?
+4Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively .Why have a human in the loop?
+5Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively .Visualization is suitable when there is a need to augment human capabilities rather than replace people with computational decision-making methods. 
